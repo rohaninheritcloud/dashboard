@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/api/accounts/login",
+        "destination": "https://anypoint.mulesoft.com/accounts/login"
+      }
+    ]
+  }
+  
